@@ -68,6 +68,6 @@ across 3 product categories and 4 regions, covering 2014–2017.
  9,994 rows | 21 columns | 2014–2017 US retail orders
 
 ## Status
-✅ SQL Analysis Complete — Basic & Advanced
-⏳ Excel Dashboard — Coming Soon
-⏳ Power BI Dashboard — Coming Soon
+✅ SQL Analysis Complete  Basic & Advanced
+⏳ Excel Dashboard  Coming Soon
+⏳ Power BI Dashboard  Coming Soon
