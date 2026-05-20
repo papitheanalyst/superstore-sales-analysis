@@ -72,7 +72,21 @@ across 3 product categories and 4 regions, covering 2014–2017.
 - 📄 advanced_queries.sql — 3 advanced queries with CTEs & CASE WHEN
 - 📊 superstore_analysis.xlsx — Excel summary report with 4 sheets
 
+  ## Project Files
+- 📄 queries.sql — 10 business SQL queries
+- 📄 advanced_queries.sql — 3 advanced queries with CTEs & CASE WHEN
+- 📊 superstore_analysis.xlsx — Excel summary report with 4 sheets
+- 📊 Power BI Dashboard — Sales, Profit, Regional & Trend Analysis
+
+
+## Project Files
+- 📄 queries.sql  10 business SQL queries
+- 📄 advanced_queries.sql  3 advanced queries with CTEs & CASE WHEN
+- 📊 superstore_analysis.xlsx  Excel summary report with 4 sheets
+- 📊 Power BI Dashboard  Sales, Profit, Regional & Trend Analysis
+
 ## Status
 ✅ SQL Analysis Complete  Basic & Advanced
 ✅ Excel Summary Report Complete
-⏳ Power BI Dashboard  Coming Soon
+✅ Power BI Dashboard Complete
+
