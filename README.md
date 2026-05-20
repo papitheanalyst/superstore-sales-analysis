@@ -67,7 +67,12 @@ across 3 product categories and 4 regions, covering 2014–2017.
 [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
  9,994 rows | 21 columns | 2014–2017 US retail orders
 
+## Project Files
+- 📄 queries.sql — 10 business SQL queries
+- 📄 advanced_queries.sql — 3 advanced queries with CTEs & CASE WHEN
+- 📊 superstore_analysis.xlsx — Excel summary report with 4 sheets
+
 ## Status
 ✅ SQL Analysis Complete  Basic & Advanced
-⏳ Excel Dashboard  Coming Soon
+✅ Excel Summary Report Complete
 ⏳ Power BI Dashboard  Coming Soon
